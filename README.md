@@ -1,0 +1,16 @@
+# Apple UI Design Resources
+
+iOS10的UI界面模板，方便大家进行UI设计。
+
+包含了Photoshop版和sketch版。
+
+![](http://wx2.sinaimg.cn/large/7c1e9369gy1fcs9bppde3j22gw3j8npd.jpg)
+
+![](http://wx1.sinaimg.cn/large/7c1e9369gy1fcs9brcl12j218g1gttd3.jpg)
+
+-----
+
+下载地址[Apple UI Design Resources](https://developer.apple.com/ios/human-interface-guidelines/resources/)
+
+*资源来自Apple Developer网站。*
+
